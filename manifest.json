@@ -1,0 +1,38 @@
+{
+  "name": "Sidikul : Zona Creative dan Berbagi
+  "short_name": "Sidikul",
+  "start_url": "https://sidikul.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Media tulis zona creative dan berbagi hal menarik di Internet, mulai dari puisi, pantun, adsense dan tips serta trik untuk membantu sehari-hari.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-yzmIuQoeDc8/Xr42FFGumdI/AAAAAAAAFrk/ixd19JmdZuEpaFlk9CJcKRAZGrWm-64wQCPcBGAYYCw/s1600/48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-4d3QWAstJv4/Xr42FcqQV8I/AAAAAAAAFrs/4VTRNsBJVcI0TBzJ8hH911kT-AgQP-NJwCPcBGAYYCw/s1600/72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GAiPFXPM5yY/Xr42ENpoLkI/AAAAAAAAFrY/3oThWX1bK98HRt5PVvJuCwl56fJTzkeOQCPcBGAYYCw/s1600/96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GAiPFXPM5yY/Xr42ENpoLkI/AAAAAAAAFrY/3oThWX1bK98HRt5PVvJuCwl56fJTzkeOQCPcBGAYYCw/s1600/144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eitTbczz3YU/Xr42EP80PGI/AAAAAAAAFrg/U03bdQNjNtY9byYvnBD-1nwNKOfF2pDcQCPcBGAYYCw/s1600/168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-tbQFToMNOYY/Xr42EKzGdKI/AAAAAAAAFrc/EpOaWLfZ4NwgVVd0QtsI9btS_O3zunx7gCPcBGAYYCw/s1600/192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-pUuVGRqF8R4/Xr42FXDnURI/AAAAAAAAFro/14X6OPRI1FE6SSDXzDRExo9OvzI9tGGUQCPcBGAYYCw/s1600/512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
